@@ -9,7 +9,7 @@ authors:
     avatar: 'assets/images/avatar.jpg'
     email: 'email@domain.tld'
 postPages:
-  author: 'Author One'
+  author: 'Para Capone'
   layout: single
   components:
     - type: pageContent

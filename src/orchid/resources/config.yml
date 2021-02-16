@@ -27,10 +27,6 @@ theme:
     - type: groupPages
       collectionType: pages
       collectionId: allPages
-      groups:
-        - 'EVE'
-        - 'Random'
-        - 'Tech'
   sidebar:
     - type: recentPosts
       limit: 3

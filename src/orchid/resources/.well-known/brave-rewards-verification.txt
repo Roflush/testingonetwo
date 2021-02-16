@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: paraguide.netlify.app
-Token: 8264ffe1438646858e8b8257c62e6384429b21ee55fbe6549382092319553717

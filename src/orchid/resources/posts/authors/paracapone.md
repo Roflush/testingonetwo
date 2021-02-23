@@ -1,6 +1,6 @@
 ---
 title: 'Para Capone'
 name: 'Para Capone'
-avatar: '/assets/images/logo.jpg'
+avatar: '/assets/images/paracapone-min.jpg'
 email: 'roflush@pm.me'
 ---

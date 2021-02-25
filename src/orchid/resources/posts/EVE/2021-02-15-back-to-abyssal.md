@@ -2,6 +2,8 @@
 
 title: Back to abyssal space
 
+author: "Para Capone"
+
 featuredImage: assets/media/back2abyssal.png
 
 tags:
@@ -9,7 +11,6 @@ tags:
 - eve 
 
 ---
-
 # Starting it off 
 
 I just got back into playing EVE again. I didn't want to do PVP, because it's starting to get old. You can only kill so many hull fit ships before you get Mad Hull Syndrome. I like abyssal space since the resistance nerfs I haven't messed with them much. I used the hawk fit markee put togehter [Hawk] before the nerf and I loved it. The only issue being the cost, at 400mil a fit (ship and implants) It's a costly missclick. 

@@ -2,6 +2,10 @@
 
 title: Eve patch 19.01 bastions of war
 
+author: "Para Capone"
+
+featuredImage: assets/media/eve-update-bofwar.jpg
+
 tags: 
 
 - eve

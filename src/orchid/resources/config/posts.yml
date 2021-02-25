@@ -1,15 +1,15 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'EVE'
-    title: 'EVE'
-  - key: 'Gaming'
+  - key: 'eve'
+    title: 'EVE Online'
+  - key: 'gaming'
     title: 'Gaming'
-  - key: 'Random'
+  - key: 'random'
     title: 'Random'
 authors:
 
 postPages:
-  author: 'Para Capone'
+  author: ' '
   layout: single
   components:
     - type: pageContent

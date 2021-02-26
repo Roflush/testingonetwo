@@ -1,10 +1,10 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'eve'
+  - key: 'EVE'
     title: 'EVE'
-  - key: 'gaming'
+  - key: 'Gaming'
     title: 'Gaming'
-  - key: 'random'
+  - key: 'Random'
     title: 'Random'
 authors:
 

@@ -20,8 +20,8 @@ theme:
       includeTerms: true
       termsAtRoot: true
     - type: 'page'
-      title: 'About'
-      itemId: 'Author'
+      title: 'guest post'
+      itemId: 'guest'
     - type: "pages"
       atRoot: true
     - type: groupPages

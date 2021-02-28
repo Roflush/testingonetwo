@@ -1,6 +1,6 @@
 ---
 
-title: Opinion: Eve expert systems update.
+title: Opinion Eve expert systems update
 
 author: "Para Capone"
 
@@ -9,8 +9,6 @@ featuredImage: https://i.imgflip.com/4zr7p8.jpg
 tags:
 
 - eve
-- gaming
-- opinion
 
 ---
 # What is EVE expert systems?

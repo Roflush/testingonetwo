@@ -8,9 +8,9 @@ featuredImage: https://i.imgflip.com/4zr7p8.jpg
 
 tags:
 
-	- eve
-    - gaming
-    - opinion
+- eve
+- gaming
+- opinion
 
 ---
 
@@ -18,7 +18,7 @@ tags:
 
 If the [article] is to be believed it's basically a trial system for skills. Players (aka Capsuleers) are gaven a week to try out "virtual skills" to help them "discover and experience new activities". The article says "For a one-week period per Expert System, Capsuleers will be able to taste the dream of a particular profession in EVE without having to commit to the skill training required by that path of progression and waiting for it to complete."
 
-[article]: 
+[article]: https://www.eveonline.com/article/qp2zb5/expert-systems-coming-soon?origin=launcher&utm_medium=app&utm_source=launcher_steam&utm_content=en
 
 # Who is this for?
 
